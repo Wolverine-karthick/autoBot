@@ -28,7 +28,7 @@ platforms.
 
 ### AutomationTestSetupRules
 
-1. Clone Project from [https://github.com/Wolverine-karthick/testorg.git](https://github.com/Wolverine-karthick/testorg.git)
+1. Clone Project from [https://github.com/theAutoBotProject/testorg.git](https://github.com/Wolverine-karthick/testorg.git)
 2. Launch Intellij and Import project as Gradle Project
 3. Download Chrome Driver from below path and add it to src/test/resources/Utilities
    https://chromedriver.chromium.org/downloads
