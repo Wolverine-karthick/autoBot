@@ -2,9 +2,9 @@
 AutoBot is a comprehensive framework designed for seamless automation of API, web and mobile testing, featuring support for BDD, DDT , with a wealth of reusable functions.
 # Test Automation Instructions
 
-This project is a comprehensive test automation framework designed to ensure the robust testing of our software
+This test automation framework is designed to ensure the robust testing of any software
 applications across three distinct platforms. Leveraging the power of the TestNG framework and enhancing it with
-Cucumber, our testing suite guarantees efficient and reliable automated testing. Our aim is to streamline the testing
+Cucumber(optional), our testing suite guarantees efficient and reliable automated testing. Our aim is to streamline the testing
 process and maintain high-quality standards, ensuring the seamless functionality of our applications across multiple
 platforms.
 
@@ -28,7 +28,7 @@ platforms.
 
 ### AutomationTestSetupRules
 
-1. Clone Project from https://github.com/uktech/t2s-Automationscript.git
+1. Clone Project from [https://github.com/uktech/t2s-Automationscript.git](https://github.com/Wolverine-karthick/testorg.git)
 2. Launch Intellij and Import project as Gradle Project
 3. Download Chrome Driver from below path and add it to src/test/resources/Utilities
    https://chromedriver.chromium.org/downloads
